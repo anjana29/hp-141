@@ -1,0 +1,35 @@
+.header{
+    width:100%;
+    text-align: left;
+}
+.header h3{
+    display: inline;
+}
+.header button{
+    float: right;
+    border: 1px solid white;
+}
+.start{
+    font-style: italic;
+    font-size: 18px;
+}
+#Status,#restart{
+    font-size: 22px;
+    font-weight: 300;
+}
+.footer{
+    background-color: bisque;
+    color:black;
+    line-height:2;
+    margin-bottom: 0px;
+    bottom: 0px;
+    position: sticky;
+    width: 100%;
+    text-align: center;
+
+}
+canvas{
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px white;
+    border:2px solid white;
+}
